@@ -56,7 +56,7 @@ business-financial-analytics-portfolio/
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/business-financial-analytics-portfolio.git
+git clone https://github.com/Sleeksofficial/business-financial-analytics-portfolios.git
 cd business-financial-analytics-portfolio
 pip install -r requirements.txt
 ```
@@ -87,8 +87,8 @@ Oloruntoba Anate is a seasoned Business & Financial Analyst based in Dubai with 
 
 ## 📬 Contact
 
-- [LinkedIn](https://www.linkedin.com)
-- Email: your-email@example.com
+- [LinkedIn](https://www.linkedin.com/in/sleeksofficial)
+- Email: anatepapilo@gmail.com
 
 ---
 
